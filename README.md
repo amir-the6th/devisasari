@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm İsa</h1>
 <h2 align="center"> Front-End Developer</h2>
-<p align="center"> ⚡ I'm a passionate front-end developer. With a degree in computer programming, I recently graduated. "Lead the world with code," is my motto. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
+<p align="center"> ⚡ I decided to pursue a career in programming while writing my master's thesis on artificial intelligence. While researching AI, I found myself in awe as I delved deeper into programming. So I enrolled in computer programming education and started doing individual studies. After deciding that frontend development is the field for me, I focused on this field and attended two bootcamps. I am proficient in HTML, CSS, JavaScript, Vue.js, and React.js. My motto is "Lead the world with code." I am an innovative person attaching importance to logical thinking. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center"><a href="https://linkedin.com/in/isasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isasari" height="30" width="30" /></a>
